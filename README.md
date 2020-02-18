@@ -1,5 +1,5 @@
 # NLP All in One
-A complete NLP guideline with code. This project covers all the main steps of nlp projects pipeline including EDA, data cleaning, modeling, results interpretation. The data is taken from a Kaggle competition named where we had to predicted if a tweet is about any disasterous situation or not. This data is selected it contains different type of variables like text, categorical, geographical etc. The EDA contains various visualizations and since github do not display all the plots so I have display the saved images of these plots for the display purpose. 
+A complete NLP guideline with code. This project covers all the main steps required to complete NLP projects. The pipeline include EDA, data cleaning, modeling, results interpretation. The data is taken from a Kaggle competition named "Real or Not? NLP with Disaster Tweets" where we had to predicted if a tweet is about any disasterous situation or not. This data is selected as it contains different type of variables like text, categorical, geographical etc. The EDA contains various visualizations and since github do not display all the plots so the plots are being displayed using the saved images of these plots for the display purpose. But the real plots and maps are interactive.
 
 ## Setup
 - Install all dependencies
