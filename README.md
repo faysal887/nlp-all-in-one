@@ -6,6 +6,23 @@ A complete NLP guideline with code. This project covers all the main steps of nl
 - Download data
 - Download GloVe vectors
 
+## Functionalities Covered
+- Initial EDA with pandas-profiling
+- Target variable distribution visualization
+- Categorical variable(s) distribution
+- Word clouds for train, test dataset
+- Visualize text data in 2D using glove and tfidf
+- Check embeddings coverage for our corpus
+- Interactive plots for geo-graphical features
+- N-gram plots
+- Spell correction
+- Extracting meta features e.g. num of words, num of punctuations, num of numerals per class
+- Extracting readability features
+- Sentiment analysis using Allen-NLP
+- Modeling using FastText and Logistic regression model
+- Threshold search for improved results
+- Model results explainability with LIME
+
 
 ## Credits and Downloads:
 - Data is taken from [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview) Kaggle competition. Download data [here](https://www.kaggle.com/c/nlp-getting-started/data). 
