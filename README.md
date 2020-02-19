@@ -19,7 +19,7 @@ A complete NLP guideline with code. This project covers all the main steps requi
 - Extracting meta features e.g. num of words, num of punctuations, num of numerals per class
 - Extracting readability features
 - Sentiment analysis using Allen-NLP
-- Modeling using FastText and Logistic regression model
+- Modeling using FastText classifier
 - Threshold search for improved results
 - Model results explainability with LIME
 
