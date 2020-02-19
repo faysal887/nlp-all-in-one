@@ -17,7 +17,7 @@ A complete NLP guideline covering all the main steps required to approach any NL
 - N-gram plots
 - Spell correction
 - Extracting meta features e.g. num of words, num of punctuations, num of numerals per class
-- Extracting readability features
+- Extracting readability features e.g. Fog Scale, Flesch Reading Ease, Flesch-Kincaid Grade Level etc
 - Sentiment analysis using Allen-NLP
 - Modeling using FastText classifier
 - Threshold search for improved results
